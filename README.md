@@ -145,7 +145,3 @@ This dashboard helps organizations:
 - Improve customer retention strategies.
 - Support executive decision-making with interactive insights.
 - Increase revenue through targeted business recommendations.
-
-Aspiring **Data Analyst** passionate about transforming raw data into actionable business insights using **Power BI, SQL, Excel, and Python**.
-
-**If you found this project helpful, don't forget to ⭐ star the repository!**
